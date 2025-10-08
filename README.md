@@ -1,5 +1,7 @@
-# ProjectMbappe - Multiplayer Unity Game
-[Play the game here!](https://aaalias.itch.io/basketball)
+# Bizzare Basketball - Multiplayer Unity Game
+## ===>   [Play the game here!](https://aaalias.itch.io/basketball)   <===
+
+<img width="1919" height="1079" alt="bASKETBALLscrenshot" src="https://github.com/user-attachments/assets/ae8f7aab-1956-4b66-aa20-1d770a7ad58e" />
 
 ## Overview -
 Custom multiplayer solution with server authoritative gameplay and client-side prediction.
